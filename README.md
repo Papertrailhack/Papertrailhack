@@ -3,7 +3,7 @@
 
 
 
-# 👋 Hi, I’m @Papertrailhack (Brett Banks)
+#  Hi, Brett
 
 Welcome to my GitHub. I’m a former industrial engineer now diving headfirst into cybersecurity—bringing with me a builder’s mindset, precision under pressure, and a hunger for solving high-stakes problems in complex systems.
 
