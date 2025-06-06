@@ -1,3 +1,7 @@
+![Banner](./A_digital_graphic_banner_showcases_Brett_Banks,_kn.png)
+
+
+
 # 👋 Hi, I’m @Papertrailhack (Brett Banks)
 
 Welcome to my GitHub. I’m a former industrial engineer now diving headfirst into cybersecurity—bringing with me a builder’s mindset, precision under pressure, and a hunger for solving high-stakes problems in complex systems.
