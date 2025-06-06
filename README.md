@@ -1,4 +1,4 @@
-![Banner](.Papertrailhackbanner).png
+![Banner](Papertrailhackbanner.png)
 
 
 
