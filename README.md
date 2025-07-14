@@ -21,7 +21,7 @@ Welcome to my GitHub. I’m a former industrial engineer now diving headfirst in
 - Detection engineering with Zeek, Splunk, and Suricata  
 - Scripting automation with Python (packet analysis, tooling)  
 - Real-world simulation using TryHackMe & custom lab environments  
-- Preparing for CompTIA Security+ and Pentest+ certifications  
+  
 
 ---
 
